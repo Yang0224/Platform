@@ -26,8 +26,8 @@ import java.util.*;
  */
 public class TextScanSample {
 	
-	private static final String ACCESS_KEY_ID = "LTAInaeROJaPoE99";
-	private static final String ACCESS_KEY_SECRET = "BreMMxMxCwAXZQnhYE8zbfve3KjW2o";
+	private static final String ACCESS_KEY_ID = "";
+	private static final String ACCESS_KEY_SECRET = "";
 	
 	public static void main(String[] args) throws Exception {
 		System.out.println(check("操你妈"));
